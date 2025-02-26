@@ -1,0 +1,1 @@
+#Use a generator expression to create an iterator that yields uppercase versions of words in a list. Iterate over it using a for loop.

@@ -1,0 +1,1 @@
+#Write a function parse_int(value) that tries to convert a string to an integer and handles ValueError if the conversion fails.

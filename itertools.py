@@ -1,0 +1,1 @@
+#Use the itertools.cycle function to cycle through a list of colors ["red", "blue", "green"] indefinitely and print the first 6 values.
