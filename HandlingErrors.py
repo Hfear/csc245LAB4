@@ -10,4 +10,5 @@ def safe_divide(a, b):
         return
 
 safe_divide(2,0)
+
 safe_divide(2,2)

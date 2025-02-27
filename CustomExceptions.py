@@ -2,4 +2,5 @@
 # "Age must be a positive integer" if age is negative or not an integer.
 
 def check_age(age):
-    if age <=0
+    if  age <= 0:
+        raise ValueError("Age must be a positive integer")
